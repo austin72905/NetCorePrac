@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FiDe5EOFpkurS9iOJcR1ZNbFqg384a3RptjNQvrJNWcsQZZuqj0LRoVw+dskuItZcXaW5xtd6zJSum4xtohw6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\NetCorePrac\\NetCorePrac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
